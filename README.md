@@ -1,2 +1,2 @@
 # hello-world
-Para comenzar a programar el python
+Para comenzar a programar en Python
